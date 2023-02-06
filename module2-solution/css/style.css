@@ -1,0 +1,285 @@
+/* .menu{
+    position: relative;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    text-align: center;
+    
+}
+section{
+    width: 250px;
+    height: 200px;
+    background-color: grey;
+    border: 1px black solid;
+}
+p{
+    width: 50px;
+    height: 30px;
+    color: black;
+    background-color: purple;
+    font-size: 15px;
+    position: absolute;
+    top: 65px;
+    left:207px;
+    border: 1px solid black;
+    /* margin: 0px; */
+/* }
+.beefsection{
+    width: 250px;
+    height: 200px;
+    background-color: blue;
+    border: 1px black solid;
+    position: absolute;
+    top: 80px;
+    left: 300px;
+}
+.beef{
+    width: 50px;
+    height: 30px;
+    color: black;
+    background-color: purple;
+    font-size: 15px;
+    position: relative;
+    top:-215px;
+    left: 492px;
+    border: 1px solid black;
+    /* margin: 0px; */
+/* 
+.sushisection{
+    width: 250px;
+    height: 200px;
+    background-color: brown;
+    border: 1px black solid;
+    position: absolute;
+    top: 80px;
+    left: 600px;
+} */
+/* .sushi{
+    width: 50px;
+    height: 30px;
+    color: black;
+    background-color: purple;
+    font-size: 15px;
+    position: relative;
+    top:-262px;
+    left: 792px;
+    border: 1px solid black;
+    margin: 0px;
+}  */ 
+@media (min-width : 992px){
+    .menu{
+        position: relative;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100%;
+        text-align: center;
+        
+    }
+    section{
+        width: 250px;
+        height: 200px;
+        background-color: grey;
+        border: 1px black solid;
+    }
+    p{
+        width: 50px;
+        height: 30px;
+        color: black;
+        background-color: purple;
+        font-size: 15px;
+        position: absolute;
+        top: 65px;
+        left:207px;
+        border: 1px solid black;
+        /* margin: 0px; */
+    }
+    .beefsection{
+        width: 250px;
+        height: 200px;
+        background-color: blue;
+        border: 1px black solid;
+        position: absolute;
+        top: 80px;
+        left: 300px;
+    }
+    .beef{
+        width: 50px;
+        height: 30px;
+        color: black;
+        background-color: purple;
+        font-size: 15px;
+        position: relative;
+        top:-215px;
+        left: 492px;
+        border: 1px solid black;
+        /* margin: 0px; */
+    }
+    .sushisection{
+        width: 250px;
+        height: 200px;
+        background-color: brown;
+        border: 1px black solid;
+        position: absolute;
+        top: 80px;
+        left: 600px;
+    }
+    .sushi{
+        width: 50px;
+        height: 30px;
+        color: black;
+        background-color: purple;
+        font-size: 15px;
+        position: relative;
+        top:-262px;
+        left: 792px;
+        border: 1px solid black;
+        /* margin: 0px; */
+    }
+}
+@media (min-width : 768px) and (max-width : 991px) {
+    .menu{
+        position: relative;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100%;
+        text-align: center;
+        
+    }
+    section{
+        width: 350px;
+        height: 200px;
+        background-color: grey;
+        border: 1px black solid;
+    }
+    p{
+        width: 50px;
+        height: 30px;
+        color: black;
+        background-color: purple;
+        font-size: 15px;
+        position: absolute;
+        top: 65px;
+        left:307px;
+        border: 1px solid black;
+        /* margin: 0px; */
+    }
+    .beefsection{
+        width: 350px;
+        height: 200px;
+        background-color: blue;
+        border: 1px black solid;
+        position: absolute;
+        top: 80px;
+        left: 400px;
+    }
+    .beef{
+        width: 50px;
+        height: 30px;
+        color: black;
+        background-color: purple;
+        font-size: 15px;
+        position: relative;
+        top:-215px;
+        left: 692px;
+        border: 1px solid black;
+        /* margin: 0px; */
+    }
+    .sushisection{
+        width: 750px;
+        height: 200px;
+        background-color: brown;
+        
+        border: 2px black solid;
+        position: relative;
+        top: 80px;
+        left: 0px;
+    }
+    .sushi{
+        width: 50px;
+        height: 30px;
+        color: black;
+        background-color: purple;
+        font-size: 15px;
+        position: relative;
+        top:-139px;
+        left: 702px;
+        border: 1px solid black;
+        /* margin: 0px; */
+    }
+}
+@media (max-width : 767px){
+    .menu{
+        position: relative;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100%;
+        text-align: center;
+        
+    }
+    section{
+        width: 720px;
+        height: 200px;
+        background-color: grey;
+        border: 1px black solid;
+        clear: right;
+    }
+    p{
+        width: 50px;
+        height: 30px;
+        color: black;
+        background-color: purple;
+        font-size: 15px;
+        position: absolute;
+        top: 65px;
+        left:675px;
+        border: 1px solid black;
+        /* margin: 0px; */
+    }
+    .beefsection{
+        width: 720px;
+        height: 200px;
+        background-color: blue;
+        border: 1px black solid;
+        position: absolute;
+        top: 300px;
+        left: 10px;
+        float: left ;
+    }
+    .beef{
+        width: 50px;
+        height: 30px;
+        color: black;
+        background-color: purple;
+        font-size: 15px;
+        position: relative;
+        top:5px;
+        left: 670px;
+        border: 1px solid black;
+        /* margin: 0px; */
+    }
+    .sushisection{
+        width: 720px;
+        height: 200px;
+        background-color: brown;
+        border: 1px black solid;
+        position: absolute;
+        top: 530px;
+        left: 9px;
+    }
+    .sushi{
+        width: 50px;
+        height: 30px;
+        color: black;
+        background-color: purple;
+        font-size: 15px;
+        position: relative;
+        top:187px;
+        left: 670px;
+        border: 1px solid black;
+        /* margin: 0px; */
+    }
+}
